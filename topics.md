@@ -34,7 +34,7 @@
     + Hearthbleed (OSI liv 1)
 
 
-* = da approfondire
+`*` = da approfondire
 
 **Possibili Iter di attacco combinato:**
   DDOS di un server SQL per manifestare misconfiguration che espone dati sensibili
